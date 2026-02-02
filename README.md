@@ -1,12 +1,22 @@
-# 👋 Hi, I’m Sandip!
+# Hi, I'm Sandip Panchal 👋
+### Data Analytics Student | Aspiring Data Storyteller | Tech Support Veteran
 
-I’m a **Data Analytics student at SNHU** focused on turning messy, real-world data into clear stories. Whether it’s analyzing NYC traffic safety or national housing trends, I’m interested in how data can make our cities run better.
+I am currently pursuing my B.S. in Data Analytics at SNHU, transitioning from a background in Computer Networking and Technical Support. I enjoy bridging the gap between raw data and actionable strategy through Python, SQL, and Tableau.
 
-### 📊 Current Portfolio Highlights:
-* **U.S. Housing Market Segmentation:** Using K-Means clustering to identify "market personas" across major cities.
-* **NYC Collision Analysis:** Investigating the human behaviors behind city traffic incidents.
-* **NYC 311 Service Requests:** Analyzing response times to improve municipal transparency.
+- 🔭 I’m currently working on: **Harvard's CS50 AI with Python**
+- 📊 I’m focusing on: **Predictive Modeling and Spatial Analysis**
+- ⚡ Fun fact: I have a deep background in Aviation logistics and Tech Support, which taught me the value of data integrity in high-pressure environments.
 
-### 🛠️ The Toolkit:
-* **Languages:** Python (Pandas, Scikit-Learn, Matplotlib, Seaborn).
-  **Skills:** Unsupervised Learning, Data Cleaning, and Statistical Visualization.
+---
+
+### 🛠 Technical Toolkit
+- **Languages:** Python (Pandas, Scikit-learn, Matplotlib), SQL
+- **Tools:** Tableau, Jupyter Notebooks, Git/GitHub
+- **Concepts:** K-Means Clustering, Time-Series Forecasting, Data Cleaning
+
+---
+
+### 📂 Featured Projects
+- **[NYC 311 Analysis](https://github.com/sanpan003-lab/NYC-311-Analysis):** Predictive modeling of 1M+ urban service records.
+- **[NYC Collision Analysis](https://github.com/sanpan003-lab/NYC-Collision-Analysis):** Spatial analysis of traffic safety hotspots.
+- **[Housing Market Segmentation](https://github.com/sanpan003-lab/U.S.-Housing-Market-Segmentation):** Machine learning clustering for real estate investment.
