@@ -20,3 +20,4 @@ I am currently pursuing my B.S. in Data Analytics at SNHU, transitioning from a 
 - **[NYC 311 Analysis](https://github.com/sanpan003-lab/NYC-311-Analysis):** Predictive modeling of 1M+ urban service records.
 - **[NYC Collision Analysis](https://github.com/sanpan003-lab/NYC-Collision-Analysis):** Spatial analysis of traffic safety hotspots.
 - **[Housing Market Segmentation](https://github.com/sanpan003-lab/U.S.-Housing-Market-Segmentation):** Machine learning clustering for real estate investment.
+- ** [Veeva 360 Risk Suite](https://github.com/sanpan003-lab/Veeva-Compliance-Risk-Suite):** End-to-end compliance solution simulating a Veeva Vault QMS environment to automate risk isolation.
