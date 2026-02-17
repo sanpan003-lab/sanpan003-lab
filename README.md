@@ -11,8 +11,8 @@ I am currently pursuing my B.S. in Data Analytics at SNHU, transitioning from a 
 
 ### 🛠 Technical Toolkit
 - **Languages:** Python (Pandas, Scikit-learn, Matplotlib), SQL
-- **Tools:** Tableau, Jupyter Notebooks, Git/GitHub
-- **Concepts:** K-Means Clustering, Time-Series Forecasting, Data Cleaning
+- **Tools:** Tableau, Jupyter Notebooks, Git/GitHub, Power BI
+- **Concepts:** K-Means Clustering, Time-Series Forecasting, Data Cleaning, Regulatory Compliance, Risk Mitigation
 
 ---
 
